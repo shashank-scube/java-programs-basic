@@ -11,3 +11,7 @@ hear are the programs for basic java programs
 9) How to Create Object in Java
 10) How to swap two numbers using 3rd variable
 11)How to swap two numbers without using 3rd variable
+
+
+note :-----------
+      dont copy the .class file it is in byte code.
